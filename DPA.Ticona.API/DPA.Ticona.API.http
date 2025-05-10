@@ -1,0 +1,6 @@
+@DPA.Ticona.API_HostAddress = http://localhost:5191
+
+GET {{DPA.Ticona.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
